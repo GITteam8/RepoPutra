@@ -1,0 +1,113 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html {
+  position: relative;
+}
+
+.container-fluid {
+  padding: 0px;
+  margin: 0px;
+}
+
+.nav-item a {
+  color: #030303;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+}
+
+.navbar-brand img {
+  padding: 0%;
+  margin: 0%;
+  width: 110px;
+  height: 35px;
+}
+
+.header-content {
+  padding: 12% 0 0 0;
+  margin: 0;
+  height: 670px;
+  background-image: url(../gambar/bk.jpg);
+  background-size: cover;
+}
+
+.header-content h1 {
+  text-align: left;
+  margin-bottom: 0px;
+  padding-top: auto;
+  padding-left: 200px;
+  font-size: 120px;
+  line-height: 100px;
+  font-weight: bold;
+}
+
+.header-content h1 span {
+  padding-left: 70px;
+}
+
+.header-content h3 {
+  margin-top: 0px;
+  font-family: "Quicksand";
+  font-size: 22px;
+  font-weight: bold;
+  padding-left: 280px;
+  line-height: 10px;
+}
+
+.header-content #by {
+  margin-top: 10px;
+  margin-bottom: 8px;
+}
+
+.header-content p {
+  color: #757575;
+  font-family: "Quicksand";
+  font-size: 14px;
+  font-weight: bold;
+  padding-left: 280px;
+  margin-top: 20px;
+  line-height: 16px;
+}
+
+.container h2 {
+  padding-top: 100px;
+}
+
+.container hr {
+  width: 20%;
+  border-top: 4px solid #6d6d6d;
+}
+
+.container .jumbotron {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: white;
+}
+
+.container .jumbotron .alamat {
+  margin-bottom: 15px;
+}
+
+.container .jumbotron .gender {
+  margin-bottom: 15px;
+}
+
+.container .jumbotron .gender .rdpilih {
+  margin-top: 15px;
+  padding: 0%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container .jumbotron .gender .rdpilih label {
+  color: black;
+}
+
+.container label {
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */
